@@ -1,0 +1,9 @@
+Package: GSEAR
+Type: Package
+Title: R wrapper for java library
+Version: 0.1
+Date: 2015-04-14
+Author: Eric Kramer
+Maintainer: Eric Kramer <ericransomkramer@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
